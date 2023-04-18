@@ -1,0 +1,39 @@
+body {
+  background: #670001;
+}
+p#topo {
+  text-align: center;
+  color: blanchedalmond;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: larger;
+}
+
+header {
+  font-size: medium;
+  border: 3px solid rgb(255, 247, 247);
+  text-align: center;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  margin-top: 40px;
+  text-align: center;
+}
+
+#select {
+  text-align: center;
+  margin: 10px;
+}
+
+#autores {
+  text-align: center;
+  display: inline;
+}
+p{
+  color: blanchedalmond;
+}
+a{color: aliceblue;}
+a:visited{color: coral;}
+
